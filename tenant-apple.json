@@ -1,0 +1,8 @@
+{
+  "tenant.apple": {
+    "ignoreExtensions": [
+      ".class",
+      ".dll"
+    ]
+  }
+}

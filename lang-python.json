@@ -1,0 +1,9 @@
+{
+  "lang.python": {
+    "ignoreDirectories": [
+      "__pycache__",
+      "venv",
+      ".venv"
+    ]
+  }
+}

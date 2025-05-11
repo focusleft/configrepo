@@ -1,0 +1,12 @@
+{
+  "framework.spring": {
+    "includeExtensions": [
+      ".java",
+      ".xml"
+    ],
+    "llmParams": {
+      "model": "gpt-4o",
+      "batchSize": 50
+    }
+  }
+}

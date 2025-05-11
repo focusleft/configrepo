@@ -1,0 +1,7 @@
+{
+  "tech.react": {
+    "llmParams": {
+      "temperature": 0.1
+    }
+  }
+}
